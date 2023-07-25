@@ -1,4 +1,5 @@
-# ace-based-indoor-relocation
+# ace-based-indoor-relocation  
+##（算法性能挺好，但是太好了，要求性能没那么高同时项目实现太复杂，冻结项目）
 基于ace(加速坐标编码)的较大规模室内重定位实现。  
 1.git clone ace项目并根据指引完成复现。  
 2.建立自己的数据集对ace进行较大规模场景的测试。采取【从零开始的手机camera+imu+gps】1、采集离线手机数据并标定 - navlaw的文章 - 知乎
